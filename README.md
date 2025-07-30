@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 this picture with out background color and animate.<br>
 <img width="299" height="532" alt="image" src="https://github.com/user-attachments/assets/89f274a9-61b5-42bb-94d0-88d9c5b75e00" />
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+|___________________________________|
+|                                   |
 <img width="299" height="532" alt="image" src="https://github.com/user-attachments/assets/bacb091f-5f81-46b3-9a52-e170e364831f" />
